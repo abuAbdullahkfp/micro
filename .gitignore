@@ -1,0 +1,5 @@
+auth/node_modules
+client/node_modules
+kafka-test/node_modules
+nats-test/node_modules
+tickets/node_modules
